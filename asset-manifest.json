@@ -1,0 +1,11 @@
+{
+  "main.js": "/counter-react/static/js/main.e587b6ef.chunk.js",
+  "main.js.map": "/counter-react/static/js/main.e587b6ef.chunk.js.map",
+  "static/js/1.0badd271.chunk.js": "/counter-react/static/js/1.0badd271.chunk.js",
+  "static/js/1.0badd271.chunk.js.map": "/counter-react/static/js/1.0badd271.chunk.js.map",
+  "runtime~main.js": "/counter-react/static/js/runtime~main.90ba072e.js",
+  "runtime~main.js.map": "/counter-react/static/js/runtime~main.90ba072e.js.map",
+  "index.html": "/counter-react/index.html",
+  "precache-manifest.a3fda8d7aebf8a57e54096975f38ceee.js": "/counter-react/precache-manifest.a3fda8d7aebf8a57e54096975f38ceee.js",
+  "service-worker.js": "/counter-react/service-worker.js"
+}
